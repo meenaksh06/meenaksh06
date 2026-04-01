@@ -4,8 +4,6 @@
 
 Building production-ready backend systems and AI-driven applications with a strong focus on performance, reliability, and real-world impact.
 
----
-
 ## About Me
 
 - Passionate about **AI systems + backend engineering**
@@ -55,7 +53,7 @@ Data-driven analysis of mobile usage patterns
 Secure data processing system  
 → Implements modern encryption techniques for safe communication
 
-### 🩸 Blomo (Startup Idea)
+### Blomo 
 Blood donation ecosystem platform  
 → Connects donors, hospitals, and urgent requests in real-time
 
@@ -86,41 +84,31 @@ Blood donation ecosystem platform
 - Worked on **developer tooling improvements**
 - Focus on scalable async job handling systems
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=meenaksh06&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=meenaksh06&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenaksh06&layout=compact&theme=tokyonight)
-
 
 ## What I'm Currently Doing
 
-- ⚡ Building **AI-powered applications & backend systems**
-- 🧪 Exploring **LLMs + agent-based architectures**
-- 📈 Preparing for **top AI internships & research roles**
-- 🤝 Contributing to **open source & developer ecosystems**
+- Building **AI-powered applications & backend systems**
+- Exploring **LLMs + agent-based architectures**
+- Preparing for **top AI internships & research roles**
+- Contributing to **open source & developer ecosystems**
 
----
 
-## 🏆 Achievements
 
-- 🥈 2nd Place – StealthFire Hackathon  
-- 🌍 HPAIR Delegate (2024, 2025, 2026)  
-- 💻 Active Open Source Contributor  
-- 📊 Built multiple AI + full-stack production projects  
+## Achievements
 
----
+- 2nd Place – StealthFire Hackathon  
+- HPAIR Delegate (2024, 2025, 2026)  
+- Active Open Source Contributor  
+- Built multiple AI + full-stack production projects
 
-## 📫 Connect With Me
 
-- 💼 LinkedIn: *Add your link*
-- 🌐 Portfolio: *Add your link*
-- 📧 Email: *Add your email*
+## Connect With Me
 
----
+- LinkedIn: *Add your link*
+- Portfolio: *Add your link*
+- Email: *Add your email*
 
-## 💡 Philosophy
+
+## Philosophy
 
 > "Build scalable systems. Design intelligent AI. Deliver real-world impact."
