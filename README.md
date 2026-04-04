@@ -105,7 +105,6 @@ Blood donation ecosystem platform
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/meenaksh-singhania-143840283/
-- Portfolio: *Add your link*
 - Email: meenaksh.s23csai@nst.rishihood.edu.in
 
 
