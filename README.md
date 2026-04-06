@@ -110,4 +110,4 @@ Blood donation ecosystem platform
 
 ## Philosophy
 
-> "Build scalable systems. Design intelligent AI. Deliver real-world impact."
+> "Build scalable systems. Design intelligent AI. Deliver real-world impact too"
