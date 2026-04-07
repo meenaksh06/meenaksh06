@@ -1,122 +1,107 @@
-# Hi, I'm Meenaksh Singhania 👋
+# Hi, I'm Meenaksh Singhania
 
-### AI Systems Engineer • Backend Builder • Research-Driven Developer
+### AI Systems Engineer | Backend Developer
 
-Building **scalable backend systems + AI-powered applications** with a focus on **performance, reliability, and real-world impact**.  
-Blending **engineering depth with AI research thinking** to ship meaningful products fast.
-
----
-
-## 🚀 About Me
-
-- Passionate about **AI systems, backend engineering & developer tools**
-- Building production-grade apps using **Node.js, FastAPI & modern infra**
-- Strong focus on **scalability, system design & real-time architectures**
-- Applying **ML + NLP + data-driven approaches** to real-world problems  
-- HPAIR Delegate (2024–2026) – global AI & leadership discussions  
-- 🥈 2nd Place – StealthFire Hackathon  
-- Active **open-source contributor** (Trigger.dev ecosystem)
+Building scalable backend systems and AI-driven applications with a focus on performance, reliability, and real-world impact. I combine strong engineering fundamentals with research-driven thinking to develop practical, high-impact solutions.
 
 ---
 
-## 🧠 Tech Stack
+## About Me
+
+- Interested in AI systems, backend engineering, and developer tools  
+- Experience building production-grade applications using Node.js, FastAPI, and modern infrastructure  
+- Focused on scalability, system design, and real-time architectures  
+- Applying machine learning and NLP techniques to real-world problems  
+- HPAIR Delegate (2024–2026)  
+- 2nd Place – StealthFire Hackathon  
+- Open-source contributor (Trigger.dev ecosystem)  
+
+---
+
+## Tech Stack
 
 ### Languages  
-`Java` `Python` `JavaScript`
+Java, Python, JavaScript  
 
 ### Frontend  
-`React.js` `Next.js` `Tailwind CSS` `Chakra UI`
+React.js, Next.js, Tailwind CSS, Chakra UI  
 
 ### Backend  
-`Node.js` `Express.js` `FastAPI` `REST APIs`
+Node.js, Express.js, FastAPI, REST APIs  
 
 ### Databases  
-`MongoDB` `MySQL` `PostgreSQL` `Prisma ORM`
+MongoDB, MySQL, PostgreSQL, Prisma ORM  
 
 ### AI / ML  
-`PyTorch` `Scikit-learn` `Transformers` `NLP`  
-`Model Fine-Tuning` `Random Forest`
+PyTorch, Scikit-learn, Transformers, NLP, Model Fine-Tuning, Random Forest  
 
-### Tools & Infra  
-`Docker` `Kubernetes` `AWS` `Vercel`  
-`GitHub` `Postman` `Render` `Scapy`
+### Tools & Infrastructure  
+Docker, Kubernetes, AWS, Vercel, GitHub, Postman, Render, Scapy  
 
 ---
 
-## 🔥 Featured Projects
+## Projects
 
-### 🧠 TaskSync-AI  
-AI-powered task orchestration & workflow automation  
-→ Intelligent scheduling + adaptive productivity systems
+### TaskSync-AI  
+AI-powered task orchestration and workflow automation system focused on intelligent scheduling and productivity.
 
-### 🌐 NexEvent  
-Real-time event detection & trend intelligence platform  
-→ NLP pipelines + crowd-signal analysis
+### NexEvent  
+Real-time event detection and trend analysis platform using NLP and crowd-signal processing.
 
-### 📊 Smartphone Usage & App Trends  
-Behavioral data analysis system  
-→ ML models + user pattern mining
+### Smartphone Usage & App Trends  
+Data analysis project extracting behavioral insights using machine learning models.
 
-### 🔐 Encryption & Decryption Tool  
-Secure communication system  
-→ Modern cryptographic techniques
+### Encryption & Decryption Tool  
+Secure communication system implementing modern cryptographic techniques.
 
-### 🩸 Blomo  
-Real-time blood donation ecosystem  
-→ Connects donors, hospitals & urgent requests
+### Blomo  
+Blood donation platform connecting donors, hospitals, and urgent requests in real time.
 
 ---
 
-## 🔬 Research-Oriented Work
+## Research Work
 
-- **Event Tracking in Social Media**  
-  Advanced pipelines for event detection, propagation & evolution  
-
-- **Explainable Topic Modeling**  
-  NLP + time-series + interpretability techniques  
-
-- **Mobile App Security Analysis**  
-  Static + dynamic analysis for privacy risk detection  
-
-- **Smartphone Usage Behavior Modeling**  
-  Predictive insights using behavioral datasets  
+- Event tracking in social media using advanced detection and propagation techniques  
+- Explainable topic modeling combining NLP, time-series analysis, and interpretability  
+- Mobile app security analysis using static and dynamic approaches  
+- Smartphone usage behavior modeling with predictive analytics  
 
 ---
 
-## 🌍 Open Source Contributions
+## Open Source
 
-### ⚙️ Trigger.dev Ecosystem  
-- Contributed to workflow automation & backend reliability  
-- Improved developer tooling & async job systems  
-- Focus on scalable distributed execution  
-
----
-
-## ⚡ What I'm Currently Doing
-
-- Building AI-powered systems & developer tools  
-- Exploring LLMs, agents & autonomous workflows  
-- Preparing for AI/ML internships & research roles  
-- Contributing to open-source & real-world deployments  
+### Trigger.dev Ecosystem  
+- Worked on workflow automation and backend reliability  
+- Contributed to developer tooling and async job systems  
+- Focused on scalable distributed execution  
 
 ---
 
-## 🏆 Achievements
+## Current Focus
 
-- 🥈 2nd Place – StealthFire Hackathon  
-- 🌏 HPAIR Delegate (2024, 2025, 2026)  
-- 💻 Active Open Source Contributor  
-- 🚀 Built multiple AI + full-stack production systems  
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/meenaksh-singhania-143840283/  
-- Email: meenaksh.s23csai@nst.rishihood.edu.in  
+- Building AI-powered systems and backend applications  
+- Exploring LLMs and agent-based architectures  
+- Preparing for AI/ML internships and research opportunities  
+- Contributing to open-source projects  
 
 ---
 
-## 🧭 Philosophy
+## Achievements
 
-> **"Build systems that scale. Design AI that aligns. Ship solutions that matter."**
+- 2nd Place – StealthFire Hackathon  
+- HPAIR Delegate (2024, 2025, 2026)  
+- Active open-source contributor  
+- Built multiple AI and full-stack projects  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/meenaksh-singhania-143840283/  
+Email: meenaksh.s23csai@nst.rishihood.edu.in  
+
+---
+
+## Philosophy
+
+Build scalable systems. Design intelligent AI. Deliver real-world impact.
