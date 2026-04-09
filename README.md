@@ -104,4 +104,4 @@ Email: meenaksh.s23csai@nst.rishihood.edu.in
 
 ## Philosophy
 
-Build scalable systems. Design intelligent AI. Deliver real-world impact.
+Build scalable systems. Design intelligent AI. 
