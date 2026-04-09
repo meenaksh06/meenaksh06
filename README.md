@@ -103,5 +103,3 @@ Email: meenaksh.s23csai@nst.rishihood.edu.in
 ---
 
 ## Philosophy
-
-Build 
