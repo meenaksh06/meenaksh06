@@ -99,7 +99,3 @@ Blood donation platform connecting donors, hospitals, and urgent requests in rea
 
 LinkedIn: https://www.linkedin.com/in/meenaksh-singhania-143840283/  
 Email: meenaksh.s23csai@nst.rishihood.edu.in  
-
----
-
-## Philosophy
