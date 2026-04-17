@@ -1,6 +1,6 @@
 # Hi, I'm Meenaksh Singhania
 
-### AI Systems Engineer | Backend Developer
+### AI Systems Engineer | Software Developer
 
 Building scalable backend systems and AI-driven applications with a focus on performance, reliability, and real-world impact. I combine strong engineering fundamentals with research-driven thinking to develop practical, high-impact solutions.
 
