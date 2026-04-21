@@ -21,7 +21,7 @@ Building scalable backend systems and AI-driven applications with a focus on per
 ## Tech Stack
 
 ### Languages  
-Java, Python, JavaScript  
+Java, Python, JavaScript, C++
 
 ### Frontend  
 React.js, Next.js, Tailwind CSS, Chakra UI  
