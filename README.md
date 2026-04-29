@@ -30,13 +30,12 @@ React.js, Next.js, Tailwind CSS, Chakra UI
 Node.js, Express.js, FastAPI, REST APIs  
 
 ### Databases  
-MongoDB, MySQL, PostgreSQL, Prisma ORM  
-
+MongoDB, MySQL, PostgreSQL, Prisma ORM, AWS S3
 ### AI / ML  
 PyTorch, Scikit-learn, Transformers, NLP, Model Fine-Tuning, Random Forest  
 
 ### Tools & Infrastructure  
-Docker, Kubernetes, AWS, Vercel, GitHub, Postman, Render, Scapy  
+Docker, Kubernetes, AWS EC2, Vercel, GitHub, Postman, Render, Scapy  
 
 ---
 
