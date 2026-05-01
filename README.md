@@ -1,100 +1,136 @@
-# Hi, I'm Meenaksh
+# 👋 Hi, I'm Meenaksh Singhania  
 
-### AI Systems Engineer | Software Developer
+🚀 **AI Systems Engineer | Backend Developer | Open Source Contributor**  
 
-Building scalable backend systems and AI-driven applications with a focus on performance, reliability, and real-world impact. I combine strong engineering fundamentals with research-driven thinking to develop practical, high-impact solutions.
-
----
-
-## About Me
-
-- Interested in AI systems, backend engineering, and developer tools  
-- Experience building production-grade applications using Node.js, FastAPI, and modern infrastructure  
-- Focused on scalability, system design, and real-time architectures  
-- Applying machine learning and NLP techniques to real-world problems  
-- HPAIR Delegate (2024–2026)  
-- 2nd Place – StealthFire Hackathon  
-- Open-source contributor (Trigger.dev ecosystem)  
+> Building scalable AI-powered systems, real-time architectures, and developer tools that solve real-world problems.
 
 ---
 
-## Tech Stack
+## ⚡ About Me  
 
-### Languages  
-Java, Python, JavaScript, C++
-
-### Frontend  
-React.js, Next.js, Tailwind CSS, Chakra UI  
-
-### Backend  
-Node.js, Express.js, FastAPI, REST APIs  
-
-### Databases  
-MongoDB, MySQL, PostgreSQL, Prisma ORM, AWS S3
-### AI / ML  
-PyTorch, Scikit-learn, Transformers, NLP, Model Fine-Tuning, Random Forest  
-
-### Tools & Infrastructure  
-Docker, Kubernetes, AWS EC2, Vercel, GitHub, Postman, Render, Scapy  
+- 🧠 Focused on **AI Systems, LLMs, and Backend Engineering**  
+- ⚙️ Strong in **system design, scalability, and distributed systems**  
+- 🔬 Applying **ML + NLP** to production-grade applications  
+- 🏗️ Building **real-time, high-performance systems**  
+- 🌏 **HPAIR Delegate (2024–2026)**  
+- 🏆 **2nd Place – StealthFire Hackathon**  
+- 💻 Contributor to **Trigger.dev ecosystem (async job systems & infra)**  
 
 ---
 
-## Projects
+## 🧩 What I Do  
 
-### TaskSync-AI  
-AI-powered task orchestration and workflow automation system focused on intelligent scheduling and productivity.
-
-### NexEvent  
-Real-time event detection and trend analysis platform using NLP and crowd-signal processing.
-
-### Smartphone Usage & App Trends  
-Data analysis project extracting behavioral insights using machine learning models.
-
-### Encryption & Decryption Tool  
-Secure communication system implementing modern cryptographic techniques.
-
-### Blomo  
-Blood donation platform connecting donors, hospitals, and urgent requests in real time.
+- Design **AI-driven backend systems**  
+- Build **LLM-powered applications & agent workflows**  
+- Develop **real-time data pipelines & event-driven systems**  
+- Work on **developer tools & automation infra**  
 
 ---
 
-## Research Work
+## 🛠️ Tech Stack  
 
-- Event tracking in social media using advanced detection and propagation techniques  
-- Explainable topic modeling combining NLP, time-series analysis, and interpretability  
-- Mobile app security analysis using static and dynamic approaches  
-- Smartphone usage behavior modeling with predictive analytics  
+### 💻 Languages  
+`Java` `Python` `JavaScript` `C++`
 
----
+### 🎨 Frontend  
+`React.js` `Next.js` `Tailwind CSS` `Chakra UI`
 
-## Open Source
+### ⚙️ Backend  
+`Node.js` `Express.js` `FastAPI` `REST APIs`
 
-### Trigger.dev Ecosystem  
-- Worked on workflow automation and backend reliability  
-- Contributed to developer tooling and async job systems  
-- Focused on scalable distributed execution  
+### 🗄️ Databases & Storage  
+`MongoDB` `MySQL` `PostgreSQL` `Prisma ORM` `AWS S3`
 
----
+### 🤖 AI / ML  
+`PyTorch` `Scikit-learn` `Transformers` `NLP`  
+`Model Fine-Tuning` `Random Forest`
 
-## Current Focus
-
-- Building AI-powered systems and backend applications  
-- Exploring LLMs and agent-based architectures  
-- Preparing for AI/ML internships and research opportunities  
-- Contributing to open-source projects  
+### ☁️ DevOps & Infra  
+`Docker` `Kubernetes` `AWS EC2` `Vercel`  
+`GitHub` `Render` `Postman` `Scapy`
 
 ---
 
-## Achievements
+## 🚀 Featured Projects  
 
-- 2nd Place – StealthFire Hackathon  
-- HPAIR Delegate (2024, 2025, 2026)  
-- Active open-source contributor  
-- Built multiple AI and full-stack projects  
+### 🧠 TaskSync-AI  
+> AI-powered workflow orchestration system  
+- Intelligent scheduling using AI  
+- Automation pipelines  
+- Focus on productivity optimization  
 
 ---
 
-## Contact
+### 📡 NexEvent  
+> Real-time event detection & trend analysis platform  
+- NLP-based signal extraction  
+- Crowd-sourced data processing  
+- Real-time analytics pipeline  
 
-LinkedIn: https://www.linkedin.com/in/meenaksh-singhania-143840283/  
-Leetcode: https://leetcode.com/u/Meenaksh_0604/
+---
+
+### 📊 Smartphone Usage & App Trends  
+> Behavioral analytics using machine learning  
+- Predictive modeling  
+- User pattern extraction  
+- Insight generation  
+
+---
+
+### 🔐 Encryption & Decryption Tool  
+> Secure communication system  
+- Modern cryptographic techniques  
+- Data integrity & security focus  
+
+---
+
+### 🩸 Blomo  
+> Real-time blood donation platform  
+- Connects donors, hospitals, blood banks  
+- Emergency matching system  
+- Location-based discovery  
+
+---
+
+## 🔬 Research Interests  
+
+- Event detection & propagation in social media  
+- Explainable topic modeling (NLP + time-series)  
+- Mobile app security (static + dynamic analysis)  
+- Behavioral modeling using predictive ML  
+
+---
+
+## 🌍 Open Source  
+
+### ⚡ Trigger.dev Ecosystem  
+- Contributed to **workflow automation systems**  
+- Improved **backend reliability & async execution**  
+- Worked on **scalable distributed job processing**  
+
+---
+
+## 🎯 Current Focus  
+
+- ⚡ LLMs & Agentic AI Systems  
+- 🧠 AI Product Engineering  
+- 🏗️ Scalable Backend Architectures  
+- 🌐 Open Source Contributions  
+
+---
+
+## 🏆 Achievements  
+
+- 🥈 2nd Place – StealthFire Hackathon  
+- 🌏 HPAIR Delegate (2024–2026)  
+- 💻 Active Open Source Contributor  
+- 🚀 Built multiple AI + full-stack systems  
+
+---
+
+## 📈 GitHub Stats  
+
+```bash
+# Optional: Add GitHub stats cards here
+# Example:
+# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
