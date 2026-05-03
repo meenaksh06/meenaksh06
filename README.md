@@ -35,17 +35,17 @@
 ### Frontend  
 `React.js` `Next.js` `Tailwind CSS` `Chakra UI`
 
-### ⚙️ Backend  
+### Backend  
 `Node.js` `Express.js` `FastAPI` `REST APIs`
 
-### 🗄️ Databases & Storage  
+### Databases & Storage  
 `MongoDB` `MySQL` `PostgreSQL` `Prisma ORM` `AWS S3`
 
-### 🤖 AI / ML  
+### AI / ML  
 `PyTorch` `Scikit-learn` `Transformers` `NLP`  
 `Model Fine-Tuning` `Random Forest`
 
-### ☁️ DevOps & Infra  
+### DevOps & Infra  
 `Docker` `Kubernetes` `AWS EC2` `Vercel`  
 `GitHub` `Render` `Postman` `Scapy`
 
@@ -110,25 +110,25 @@
 
 ---
 
-## 🎯 Current Focus  
+## Current Focus  
 
-- ⚡ LLMs & Agentic AI Systems  
-- 🧠 AI Product Engineering  
-- 🏗️ Scalable Backend Architectures  
-- 🌐 Open Source Contributions  
-
----
-
-## 🏆 Achievements  
-
-- 🥈 2nd Place – StealthFire Hackathon  
-- 🌏 HPAIR Delegate (2024–2026)  
-- 💻 Active Open Source Contributor  
-- 🚀 Built multiple AI + full-stack systems  
+- LLMs & Agentic AI Systems  
+- AI Product Engineering  
+- Scalable Backend Architectures  
+- Open Source Contributions  
 
 ---
 
-## 📈 GitHub Stats  
+## Achievements  
+
+- 2nd Place – StealthFire Hackathon  
+- HPAIR Delegate (2024–2026)  
+- Active Open Source Contributor  
+- Built multiple AI + full-stack systems  
+
+---
+
+## GitHub Stats  
 
 ```bash
 # Optional: Add GitHub stats cards here
