@@ -18,7 +18,7 @@
 
 ---
 
-## 🧩 What I Do  
+## What I Do  
 
 - Design **AI-driven backend systems**  
 - Build **LLM-powered applications & agent workflows**  
@@ -27,12 +27,12 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
-### 💻 Languages  
+### Languages  
 `Java` `Python` `JavaScript` `C++`
 
-### 🎨 Frontend  
+### Frontend  
 `React.js` `Next.js` `Tailwind CSS` `Chakra UI`
 
 ### ⚙️ Backend  
