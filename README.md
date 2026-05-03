@@ -51,9 +51,9 @@
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
-### 🧠 TaskSync-AI  
+### TaskSync-AI  
 > AI-powered workflow orchestration system  
 - Intelligent scheduling using AI  
 - Automation pipelines  
@@ -61,7 +61,7 @@
 
 ---
 
-### 📡 NexEvent  
+### NexEvent  
 > Real-time event detection & trend analysis platform  
 - NLP-based signal extraction  
 - Crowd-sourced data processing  
@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 Smartphone Usage & App Trends  
+### Smartphone Usage & App Trends  
 > Behavioral analytics using machine learning  
 - Predictive modeling  
 - User pattern extraction  
@@ -77,14 +77,14 @@
 
 ---
 
-### 🔐 Encryption & Decryption Tool  
+### Encryption & Decryption Tool  
 > Secure communication system  
 - Modern cryptographic techniques  
 - Data integrity & security focus  
 
 ---
 
-### 🩸 Blomo  
+### Blomo  
 > Real-time blood donation platform  
 - Connects donors, hospitals, blood banks  
 - Emergency matching system  
@@ -92,7 +92,7 @@
 
 ---
 
-## 🔬 Research Interests  
+## Research Interests  
 
 - Event detection & propagation in social media  
 - Explainable topic modeling (NLP + time-series)  
@@ -101,7 +101,7 @@
 
 ---
 
-## 🌍 Open Source  
+## Open Source  
 
 ### ⚡ Trigger.dev Ecosystem  
 - Contributed to **workflow automation systems**  
