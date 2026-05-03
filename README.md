@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Meenaksh Singhania  
+# Hi, I'm Meenaksh Singhania  
 
-🚀 **AI Systems Engineer | Backend Developer | Open Source Contributor**  
+**AI Systems Engineer | Backend Developer | Open Source Contributor**  
 
 > Building scalable AI-powered systems, real-time architectures, and developer tools that solve real-world problems.
 
@@ -8,8 +8,8 @@
 
 ## ⚡ About Me  
 
-- 🧠 Focused on **AI Systems, LLMs, and Backend Engineering**  
-- ⚙️ Strong in **system design, scalability, and distributed systems**  
+- Focused on **AI Systems, LLMs, and Backend Engineering**  
+- Strong in **system design, scalability, and distributed systems**  
 - 🔬 Applying **ML + NLP** to production-grade applications  
 - 🏗️ Building **real-time, high-performance systems**  
 - 🌏 **HPAIR Delegate (2024–2026)**  
