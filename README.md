@@ -12,7 +12,7 @@ Building scalable AI-powered systems, real-time architectures, and developer too
 - Strong in **system design, scalability, and distributed systems**  
 - Applying **ML + NLP** to production-grade applications  
 - Building **real-time, high-performance systems**  
-- **HPAIR Delegate (2024–2026)**  
+- **HPAIR Delegate in August 2024**  
 - **2nd Place – StealthFire Hackathon**  
 - Contributor to **Trigger.dev ecosystem (async job systems & infra)**  
 
