@@ -24,7 +24,6 @@ I build scalable AI-powered systems, real-time architectures, and developer tool
 - Real-time data pipelines and event-driven systems  
 - Developer tools and automation infrastructure  
 
----
 
 ## Tech Stack  
 
