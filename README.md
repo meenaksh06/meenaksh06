@@ -22,7 +22,9 @@ I build scalable AI-powered systems, real-time architectures, and developer tool
 - AI-driven backend systems and agent workflows  
 - LLM-powered applications  
 - Real-time data pipelines and event-driven systems  
-- Developer tools and automation infrastructure  
+- Developer tools and automation infrastructure
+
+---
 
 
 ## Tech Stack  
