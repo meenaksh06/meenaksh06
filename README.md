@@ -2,7 +2,7 @@
 
 **AI Systems Engineer | Backend Developer | Open Source Contributor**
 
-I build scalable AI-powered systems, real-time architectures, and developer tools focused on solving real-world problems.
+Building scalable AI-powered systems, real-time architectures, and developer tools focused on solving real-world problems.
 
 ---
 
