@@ -1,6 +1,6 @@
 # Hi, I'm Meenaksh Singhania  
 
-**AI Systems Engineer | Backend Developer | Open Source Contributor**
+**AI Systems Engineer | Software Developer | Open Source Contributor**
 
 Building scalable AI-powered systems, real-time architectures, and developer tools focused on solving real-world problems.
 
