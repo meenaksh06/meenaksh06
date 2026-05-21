@@ -35,7 +35,7 @@ Building scalable AI-powered systems, real-time architectures, and developer too
 
 **Backend:** Node.js, Express.js, FastAPI, REST APIs  
 
-**Databases:** MongoDB, MySQL, PostgreSQL, Prisma, AWS S3  
+**Databases:** MongoDB, MySQL, PostgreSQL, Prisma, AWS S3, AWS Lambda 
 
 **AI/ML:** PyTorch, Scikit-learn, Transformers, NLP, Fine-tuning  
 
