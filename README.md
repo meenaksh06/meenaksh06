@@ -97,5 +97,3 @@ Real-time blood donation platform
 - HPAIR Delegate (2024–2026)  
 - Active open-source contributor  
 - Built multiple AI and full-stack systems  
-
----
