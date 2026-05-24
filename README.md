@@ -8,7 +8,7 @@ Building scalable AI-powered systems, real-time architectures, and developer too
 
 ## About Me  
 
-- Specializing in **AI systems, LLMs, and backend **  
+- Specializing in **AI systems, LLMs, and **  
 - Strong foundation in **system design, scalability, and distributed systems**  
 - Experienced in deploying **ML/NLP solutions in production**  
 - Focused on **real-time, high-performance architectures**  
