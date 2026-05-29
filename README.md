@@ -39,7 +39,7 @@ Building scalable AI-powered systems, real-time architectures, and developer too
 
 **AI/ML:** PyTorch, Scikit-learn, Transformers, NLP, Fine-tuning  
 
-**DevOps:** Docker, Kubernetes, AWS EC2, Vercel, Github, Render
+**DevOps:** Docker, Kubernetes, AWS EC2, Vercel, Github, Render, AWS Lambda
 
 ---
 
