@@ -22,7 +22,7 @@ Building scalable AI-powered systems, real-time architectures, and developer too
 - AI-driven backend systems and agent workflows  
 - Rag, Large Language Model-powered applications  
 - Real-time data pipelines and event-driven systems  
-- Developer tools and automation infrastructure
+- Developer tools and automation command infrastructure
 
 ---
 
