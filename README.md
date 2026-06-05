@@ -33,7 +33,7 @@ Building scalable AI-powered systems, real-time architectures, and developer too
 
 **Frontend:** React.js, Next.js, Tailwind CSS, Chakra UI  
 
-**Backend:** Node.js, Express.js, FastAPI, REST APIs, Kafka
+**Backend:** Node.js, FastAPI, REST APIs, Kafka
 
 **Databases:** MongoDB, MySQL, PostgreSQL, Prisma, AWS S3, AWS Lambda 
 
