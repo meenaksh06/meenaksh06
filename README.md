@@ -70,7 +70,7 @@ Real-time blood donation platform
 - Event detection in social media  
 - Explainable NLP and time-series modeling  
 - Mobile application security  
-- Behavioral analytics using machine learning  
+- Behavioral analytics using machine learning and deep learning models
 
 ---
 
