@@ -87,7 +87,7 @@ Real-time blood donation platform
 - LLMs and agentic AI systems  
 - AI product engineering  
 - Scalable backend architectures  
-- Open source contributions  
+- Open source contributions (Trigger.dev)
 
 ---
 
