@@ -51,7 +51,7 @@ AI-based workflow orchestration
 
 ### NexEvent  
 Real-time event detection platform  
-- N signal extraction and analytics
+- Natural language processing and RAG signal extraction and analytics
 
 ### Smartphone Usage Analytics  
 - Predictive modeling and behavioral insights  
