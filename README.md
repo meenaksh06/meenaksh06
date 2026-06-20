@@ -77,7 +77,7 @@ Real-time blood donation platform
 ## Open Source  
 
 ### Trigger.dev Ecosystem  
-- Enhanced async job processing and backend reliability  
+- Enhanced async job processing and 
 - Contributed to scalable workflow automation
 
 ---
