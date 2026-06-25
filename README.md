@@ -29,7 +29,7 @@ Building scalable AI-powered systems, real-time architectures, and developer too
 
 ## Tech Stack  
 
-**Languages:** Java, Python, JavaScript, C++  
+**Languages:** Java, Python, JavaScript, C++, Typescript
 
 **Frontend:** React.js, Next.js, Tailwind CSS, Chakra UI  
 
