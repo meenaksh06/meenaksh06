@@ -2,7 +2,7 @@
 
 **AI Systems Engineer | Software Developer | Open Source Contributor**
 
-Building scalable AI-powered systems, real-time architectures, and developer tools focused on solving  problems.
+Building scalable AI-powered systems, real-time architectures, and developer tools focused on solving real world problems.
 
 ---
 
