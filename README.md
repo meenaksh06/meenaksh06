@@ -78,7 +78,7 @@ Real-time blood donation platform
 
 ### Trigger.dev Ecosystem  
 - Enhanced async job processing and backend reliability
-- Contributed to scalable workflow automation
+- Contributed to scalable
 
 ---
 
