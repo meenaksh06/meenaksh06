@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Meenaksh%20Singhania&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20Software%20Developer%20%7C%20Open%20Source%20Contributor&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
-<h1 align="center">Hi, I'm Meenaksh 👋</h1>
+<h1 align="center">Hi, I'm  👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
