@@ -40,7 +40,7 @@
 - 🔐 **Encryption Tool** — Secure communication tool using modern cryptographic methods. End-to-end encryption with key management and integrity verification.
 <br/>
 <h2>🔬 Research Interests</h2>
-- 📈 Event detection in social 
+- 📈 Event detection in social media streams
 - 🧪 Explainable NLP and time-series modeling
 - 📱 Mobile application security
 - 🧬 Behavioral analytics using ML and deep learning models
