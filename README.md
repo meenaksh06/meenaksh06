@@ -37,7 +37,7 @@
 - 📊 **Smartphone Usage Analytics** — Predictive modeling and behavioral insights using machine learning. Time-series analysis and deep learning models for usage pattern classification.
 <h3>Full-Stack & Systems</h3>
 - 🩸 **[Blomo](https://github.com/meenaksh06/Blomo)** — Real-time blood donation platform with emergency matching, location-based discovery, and instant donor notifications.
-- 🔐 **Encryption Tool** — Secure communication tool using modern cryptographic methods. End-to-end encryption with key management and integrity verification.
+- 🔐 **Encryption Tool** — Secure communication tool using modern cryptographic methods. End-to-end encryption with key management and integrity .
 <br/>
 <h2>🔬 Research Interests</h2>
 - 📈 Event detection in social media streams
